@@ -17,7 +17,7 @@ excuses = {
     "пофек": [
         {"text": "Мені було всеодно.", "meme": "https://imgs.search.brave.com/CwcefeYJ6F6sjnJJATcLee-SMYyla_86wbQ0bWoqzJA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTkx/NDAzMDYyL3Bob3Rv/L2dydW1weS1jYXQu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PTkwUW51UTh3alFH/cmFUUlFtRlNZalkt/dldCcndnTm9hVEFG/bDhoeTRBUWM9"},
         {"text": "Навіть deepseek не зрозумів що робити.", "meme": "https://imgs.search.brave.com/q9cPjtDGMjZUAGx9Vs3m41uBcQmMNeqJkrmB_zj-0h4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnNz/dGF0aWMubmV0L3BC/NDNrLmpwZw"},
-        {"text": "Якщо чесно, я думав, що ця лаба вже не сдана.", "meme": "https://imgs.search.brave.com/NCMDMsSWUpS0VwkY5CoxJjU7ks8g0RxjkGCXh9_Llyc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmltYWdlcmVz/aXplci5jb20vaW1h/Z2VzL21lbWVzL1dh/aXRpbmctc2tlbGV0/b24tbWVtZS04Lmpw/Zw"}
+        {"text": "Якщо чесно, я думав, що ця лаба вже сдана.", "meme": "https://imgs.search.brave.com/NCMDMsSWUpS0VwkY5CoxJjU7ks8g0RxjkGCXh9_Llyc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmltYWdlcmVz/aXplci5jb20vaW1h/Z2VzL21lbWVzL1dh/aXRpbmctc2tlbGV0/b24tbWVtZS04Lmpw/Zw"}
     ]
 }
 
