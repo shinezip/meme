@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <title>Генератор відмазок</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: 50px;
+            background-color: #f0fff0;
+        }
+        select, button {
+            padding: 10px;
+            font-size: 16px;
+            background-color: #98fb98;
+            border: 1px solid #2e8b57;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #2e8b57;
+            color: white;
+        }
+        h1 {
+            color: #006400;
+        }
+        #meme-container {
+            margin: 20px auto;
+            max-width: 400px;
+        }
+        #meme-container img {
+            max-width: 100%;
+            border-radius: 10px;
+            border: 3px solid #2e8b57;
+        }
+    </style>
+</head>
+<body>
+<h1>Чому я не здав лабу?</h1>
+<form method="POST">
+    <label for="teacher">Тип викладача:</label>
+    <select name="teacher" id="teacher">
+        <option value="добрий">Добрий</option>
+        <option value="злий">Злий</option>
+        <option value="похуй">Похуй</option>
+    </select>
+    <br><br>
+    <button type="submit">Згенерувати причину</button>
+</form>
+
+{% if result %}
+<div id="meme-container">
+    <img src="{{ meme_url }}" alt="Мем про відмазку">
+</div>
+<h3 style="margin-top:30px; color: #006400;">👉 {{ result }}</h3>
+{% endif %}
+</body>
+</html>
